@@ -12,6 +12,7 @@
  - [ ] Fight Club
  - [ ] Shutter Island
  - [ ] Horrible Bosses
+ - [ ] Pirates of the Carribean
 
 ## TV Shows
 
