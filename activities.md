@@ -15,3 +15,4 @@
  - [ ] Sailing
  - [ ] Aquaparc
  - [ ] Amusement park
+ - [X] Discuss Git
