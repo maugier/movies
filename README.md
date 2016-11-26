@@ -16,6 +16,9 @@
 
 ## TV Shows
 
- - [ ] Futurama
+ - Futurama
+   - [X] Season 1
+   - [ ] Season 2
+   - [ ] Season 3
  - [ ] House of Cards
  - [ ] The taste of Iran
