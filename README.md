@@ -11,7 +11,7 @@
  - [ ] The Social Network
  - [ ] Fight Club
  - [ ] Shutter Island
- - [ ] Horrible Bosses
+ - [X] Horrible Bosses
  - [ ] Pirates of the Carribean
 
 ## TV Shows
