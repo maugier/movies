@@ -3,7 +3,8 @@
 ## Movies
 
  - [ ] Star Wars
- - [ ] Lord of the Rings
+ - [X] Lord of the Rings
+ - [ ] The Hobbit
  - [ ] Existenz
  - [ ] Matrix
  - [ ] The Departed
@@ -21,4 +22,7 @@
    - [ ] Season 2
    - [ ] Season 3
  - [ ] House of Cards
- - [ ] The taste of Iran
+ - [X] A taste of Iran
+ - [ ] Westworld
+ - [ ] Black Mirror
+ - [ ] Rick and Morty
