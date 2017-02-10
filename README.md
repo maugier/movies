@@ -4,7 +4,7 @@
 
  - [ ] Star Wars
  - [X] Lord of the Rings
- - [ ] The Hobbit
+ - [X] The Hobbit
  - [ ] Existenz
  - [ ] Matrix
  - [ ] The Departed
