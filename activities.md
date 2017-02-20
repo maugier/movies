@@ -17,4 +17,4 @@
  - [ ] Amusement park
  - [X] Discuss Git
  - [ ] Scuba Diving
- - [ ] Indoor Skydiving
+ - [X] Indoor Skydiving
