@@ -13,7 +13,7 @@
  - [ ] Sledding
  - [ ] Cruising
  - [ ] Sailing
- - [ ] Aquaparc
+ - [X] Aquaparc
  - [ ] Amusement park
  - [X] Discuss Git
  - [ ] Scuba Diving
