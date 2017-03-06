@@ -8,7 +8,7 @@
  - [ ] Canyoning
  - [ ] Skiing
  - [ ] Rafting
- - [ ] Spa
+ - [X] Spa
  - [ ] Snowshoeing
  - [ ] Sledding
  - [ ] Cruising
