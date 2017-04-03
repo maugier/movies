@@ -14,10 +14,11 @@
  - [ ] Shutter Island
  - [X] Horrible Bosses
  - Pirates of the Carribean
-   - 1 [X]
-   - 2 [ ]
-   - 3 [ ]
-   - 4 [ ]
+   - [X] The Curse of the Black Pearl
+   - [ ] Dead Man's Chest
+   - [ ] At World's End
+   - [ ] On Stranger Tides
+   - [ ] Dead Men Tell No Tales
  - [ ] Jonah Who Will Be 25 in the Year 2000
  - [ ] The Sound of Music
 
