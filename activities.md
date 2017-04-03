@@ -8,12 +8,12 @@
  - [ ] Canyoning
  - [ ] Skiing
  - [ ] Rafting
- - [ ] Spa
+ - [X] Spa
  - [ ] Snowshoeing
  - [ ] Sledding
  - [ ] Cruising
  - [ ] Sailing
- - [ ] Aquaparc
+ - [X] Aquaparc
  - [ ] Amusement park
  - [X] Discuss Git
  - [ ] Scuba Diving
