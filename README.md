@@ -21,15 +21,23 @@
    - [ ] Dead Men Tell No Tales
  - [ ] Jonah Who Will Be 25 in the Year 2000
  - [ ] The Sound of Music
+ - Monty Python
+   - [X] Monty Python and the Holy Grail
+   - [ ] Life of Brian
+ - French Movies
+   - [ ] La Grande Vadrouille
+   - [ ] La Folie des Grandeurs
+   - [ ] Les Visiteurs
 
 ## TV Shows
 
  - Futurama
    - [X] Season 1
    - [X] Season 2
-   - [ ] Season 3
+   - [X] Season 3
+   - [ ] Season 4
  - [ ] House of Cards
  - [X] A taste of Iran
  - [ ] Westworld
  - [ ] Black Mirror
- - [ ] Rick and Morty
+
