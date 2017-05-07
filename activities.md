@@ -14,7 +14,7 @@
  - [ ] Cruising
  - [ ] Sailing
  - [X] Aquaparc
- - [ ] Amusement park
+ - [X] Amusement park
  - [X] Discuss Git
  - [ ] Scuba Diving
  - [X] Indoor Skydiving
