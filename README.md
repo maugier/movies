@@ -13,6 +13,7 @@
  - [ ] Fight Club
  - [ ] Shutter Island
  - [X] Horrible Bosses
+ - [ ] Moana
  - Pirates of the Carribean
    - [X] The Curse of the Black Pearl
    - [ ] Dead Man's Chest
