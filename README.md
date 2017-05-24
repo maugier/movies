@@ -2,7 +2,14 @@
 
 ## Movies
 
- - [ ] Star Wars
+ - Star Wars
+   - [X] IV - A New Hope
+   - [X] V - The Empire Strikes Back
+   - [ ] II - Attack of the Clones
+   - [ ] III - Revenge of the Sith
+   - [ ] VI - Return of the Jedi
+   - [ ] VII - A New Hope
+   - [ ] Rogue One
  - [X] Lord of the Rings
  - [X] The Hobbit
  - [ ] Existenz
@@ -13,7 +20,7 @@
  - [ ] Fight Club
  - [ ] Shutter Island
  - [X] Horrible Bosses
- - [ ] Moana
+ - [X] Moana
  - Pirates of the Carribean
    - [X] The Curse of the Black Pearl
    - [ ] Dead Man's Chest
