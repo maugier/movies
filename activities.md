@@ -12,9 +12,16 @@
  - [ ] Snowshoeing
  - [ ] Sledding
  - [ ] Cruising
- - [ ] Sailing
+ - [X] Sailing
  - [X] Aquaparc
  - [X] Amusement park
  - [X] Discuss Git
  - [ ] Scuba Diving
  - [X] Indoor Skydiving
+ 
+# To Do Again:
+
+ - Spa
+ - Sailing 
+ - Aquaparc
+ - Amusment park
