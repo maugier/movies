@@ -7,7 +7,7 @@
  - [ ] Bungee Jumping
  - [ ] Canyoning
  - [ ] Skiing
- - [ ] Rafting
+ - [X] Rafting
  - [X] Spa
  - [ ] Snowshoeing
  - [ ] Sledding
@@ -25,3 +25,4 @@
  - Sailing 
  - Aquaparc
  - Amusment park
+ - Rafting
