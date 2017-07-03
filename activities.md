@@ -14,7 +14,11 @@
  - [ ] Cruising
  - [X] Sailing
  - [X] Aquaparc
+   - [X] Booster Loop
+   - [ ] Virtual Reality slide
  - [X] Amusement park
+   - [X] 10/10 rollercoasters
+   - [ ] Giant Slingshot
  - [X] Discuss Git
  - [ ] Scuba Diving
  - [X] Indoor Skydiving
