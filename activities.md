@@ -22,6 +22,8 @@
  - [X] Discuss Git
  - [ ] Scuba Diving
  - [X] Indoor Skydiving
+ - [ ] Build an Arduino
+ - [ ] Play with a chemistry kit
  
 # To Do Again:
 
