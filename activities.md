@@ -5,7 +5,8 @@
  - [ ] Zipline
  - [ ] Paraglide
  - [ ] Bungee Jumping
- - [ ] Canyoning
+ - [X] Canyoning
+ - [ ] Speleology
  - [ ] Skiing
  - [X] Rafting
  - [X] Spa
