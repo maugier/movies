@@ -19,6 +19,8 @@
  - [ ] The Social Network
  - [ ] Fight Club
  - [ ] Shutter Island
+ - [ ] The Truman Show
+ - [ ] The Prestige
  - [X] Horrible Bosses
  - [X] Moana
  - Pirates of the Carribean
@@ -33,9 +35,9 @@
    - [X] Monty Python and the Holy Grail
    - [ ] Life of Brian
  - French Movies
-   - [ ] La Grande Vadrouille
-   - [ ] La Folie des Grandeurs
-   - [ ] Les Visiteurs
+   - [X] La Grande Vadrouille
+   - [X] La Folie des Grandeurs
+   - [X] Les Visiteurs
 
 ## TV Shows
 
