@@ -17,7 +17,7 @@
  - [ ] The Departed
  - [ ] Samsara
  - [ ] The Social Network
- - [ ] Fight Club
+ - [X] Fight Club
  - [ ] Shutter Island
  - [ ] The Truman Show
  - [ ] The Prestige
