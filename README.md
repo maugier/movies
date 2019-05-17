@@ -12,7 +12,7 @@
    - [ ] Rogue One
  - [X] Lord of the Rings
  - [X] The Hobbit
- - [ ] Existenz
+ - [X] Existenz
  - [ ] Matrix
  - [ ] The Departed
  - [ ] Samsara
@@ -38,6 +38,15 @@
    - [X] La Grande Vadrouille
    - [X] La Folie des Grandeurs
    - [X] Les Visiteurs
+ - [ ] Fargo
+ - [ ] Zodiac
+ - [ ] Prisoners
+ - [ ] The Godfather
+ - [ ] The Shawshank Redemption
+ - [ ] Gladiator
+ - [ ] The Green Mile
+ - [ ] A Beutiful Mind
+ - [ ] Youth
 
 ## TV Shows
 
@@ -46,7 +55,7 @@
    - [X] Season 2
    - [X] Season 3
    - [X] Season 4
-   - [ ] Season 5
+   - [X] Season 5
  - [ ] House of Cards
  - [X] A taste of Iran
  - [ ] Westworld
